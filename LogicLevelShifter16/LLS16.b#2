@@ -74,10 +74,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="-204.47" y1="-33.02" x2="142.22" y2="-34.29" width="0" layer="20"/>
+<wire x1="-186.69" y1="-35.56" x2="142.22" y2="-34.29" width="0" layer="20"/>
 <wire x1="142.22" y1="-34.29" x2="135.87" y2="456.87" width="0" layer="20"/>
-<wire x1="135.87" y1="456.87" x2="-204.47" y2="455.6" width="0" layer="20"/>
-<wire x1="-204.47" y1="455.6" x2="-204.47" y2="-33.02" width="0" layer="20"/>
+<wire x1="135.87" y1="456.87" x2="-193.04" y2="455.6" width="0" layer="20"/>
+<wire x1="-193.04" y1="455.6" x2="-186.69" y2="-35.56" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="0524372471">
@@ -1949,19 +1949,19 @@ design rules under a new name.</description>
 <attribute name="NAME" x="68.58" y="193.04" size="1.27" layer="25" rot="R90" align="center"/>
 <attribute name="VALUE" x="67.31" y="193.04" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="J2" library="0524372471" package="0524372471" value="0524372471" x="-185.42" y="180.34" smashed="yes" rot="R90">
-<attribute name="ARROW_PART_NUMBER" value="0524372471" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/0524372471/molex" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESCRIPTION" value="Conn FPC Connector SKT 24 POS 0.5mm Solder RA SMD Easy-On T/R" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="2.2mm" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Molex" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="0524372471" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="N/A" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/0524372471?qs=PBcRNPEHKspMGfgyTEmuOQ%3D%3D" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_TESTING_PART_NUMBER" value="" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_TESTING_PRICE-STOCK" value="" x="-185.42" y="180.34" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-181.61" y="179.07" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="-185.42" y="180.34" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="J2" library="0524372471" package="0524372471" value="0524372471" x="-257.81" y="185.42" smashed="yes" rot="R90">
+<attribute name="ARROW_PART_NUMBER" value="0524372471" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/0524372471/molex" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value="Conn FPC Connector SKT 24 POS 0.5mm Solder RA SMD Easy-On T/R" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="2.2mm" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Molex" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="0524372471" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="N/A" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/0524372471?qs=PBcRNPEHKspMGfgyTEmuOQ%3D%3D" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_TESTING_PART_NUMBER" value="" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_TESTING_PRICE-STOCK" value="" x="-257.81" y="185.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="-257.81" y="185.42" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="-257.81" y="185.42" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
 <element name="L1-10:R1" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="130" x="-110.49" y="260.35" smashed="yes">
 <attribute name="NAME" x="-110.49" y="260.35" size="1.27" layer="25"/>
@@ -4343,14 +4343,14 @@ design rules under a new name.</description>
 <contactref element="L1-1:R9" pad="1"/>
 <wire x1="-173.57" y1="54.61" x2="-182.46" y2="54.61" width="0" layer="19" extent="1-1"/>
 <wire x1="-162.98" y1="54.61" x2="-173.57" y2="54.61" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="174.59" x2="-162.98" y2="54.61" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="179.67" x2="-162.98" y2="54.61" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M2">
 <contactref element="J2" pad="2"/>
 <contactref element="L1-2:R8" pad="1"/>
 <contactref element="L1-2:R7" pad="2"/>
 <contactref element="L1-2:R9" pad="1"/>
-<wire x1="-162.98" y1="77.47" x2="-187.345" y2="175.09" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="77.47" x2="-259.735" y2="180.17" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="77.47" x2="-162.98" y2="77.47" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="77.47" x2="-173.57" y2="77.47" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4359,7 +4359,7 @@ design rules under a new name.</description>
 <contactref element="L1-3:R8" pad="1"/>
 <contactref element="L1-3:R7" pad="2"/>
 <contactref element="L1-3:R9" pad="1"/>
-<wire x1="-162.98" y1="100.33" x2="-187.345" y2="175.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="100.33" x2="-259.735" y2="180.67" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="100.33" x2="-162.98" y2="100.33" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="100.33" x2="-173.57" y2="100.33" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4368,7 +4368,7 @@ design rules under a new name.</description>
 <contactref element="L1-4:R8" pad="1"/>
 <contactref element="L1-4:R7" pad="2"/>
 <contactref element="L1-4:R9" pad="1"/>
-<wire x1="-162.98" y1="123.19" x2="-187.345" y2="176.09" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="123.19" x2="-259.735" y2="181.17" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="123.19" x2="-162.98" y2="123.19" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="123.19" x2="-173.57" y2="123.19" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4377,7 +4377,7 @@ design rules under a new name.</description>
 <contactref element="L1-5:R8" pad="1"/>
 <contactref element="L1-5:R7" pad="2"/>
 <contactref element="L1-5:R9" pad="1"/>
-<wire x1="-162.98" y1="146.05" x2="-187.345" y2="176.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="146.05" x2="-259.735" y2="181.67" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="146.05" x2="-162.98" y2="146.05" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="146.05" x2="-173.57" y2="146.05" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4386,7 +4386,7 @@ design rules under a new name.</description>
 <contactref element="L1-6:R8" pad="1"/>
 <contactref element="L1-6:R7" pad="2"/>
 <contactref element="L1-6:R9" pad="1"/>
-<wire x1="-162.98" y1="168.91" x2="-187.345" y2="177.09" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="168.91" x2="-259.735" y2="182.17" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="168.91" x2="-162.98" y2="168.91" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="168.91" x2="-173.57" y2="168.91" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4395,7 +4395,7 @@ design rules under a new name.</description>
 <contactref element="L1-7:R8" pad="1"/>
 <contactref element="L1-7:R7" pad="2"/>
 <contactref element="L1-7:R9" pad="1"/>
-<wire x1="-162.98" y1="191.77" x2="-187.345" y2="177.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="191.77" x2="-259.735" y2="182.67" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="191.77" x2="-162.98" y2="191.77" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="191.77" x2="-173.57" y2="191.77" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4404,7 +4404,7 @@ design rules under a new name.</description>
 <contactref element="L1-8:R8" pad="1"/>
 <contactref element="L1-8:R7" pad="2"/>
 <contactref element="L1-8:R9" pad="1"/>
-<wire x1="-162.98" y1="214.63" x2="-187.345" y2="178.09" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="214.63" x2="-259.735" y2="183.17" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="214.63" x2="-162.98" y2="214.63" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="214.63" x2="-173.57" y2="214.63" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4413,7 +4413,7 @@ design rules under a new name.</description>
 <contactref element="L1-9:R8" pad="1"/>
 <contactref element="L1-9:R7" pad="2"/>
 <contactref element="L1-9:R9" pad="1"/>
-<wire x1="-162.98" y1="237.49" x2="-187.345" y2="178.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="237.49" x2="-259.735" y2="183.67" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="237.49" x2="-162.98" y2="237.49" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="237.49" x2="-173.57" y2="237.49" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4422,7 +4422,7 @@ design rules under a new name.</description>
 <contactref element="L1-10:R8" pad="1"/>
 <contactref element="L1-10:R7" pad="2"/>
 <contactref element="L1-10:R9" pad="1"/>
-<wire x1="-162.98" y1="260.35" x2="-187.345" y2="179.09" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="260.35" x2="-259.735" y2="184.17" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="260.35" x2="-162.98" y2="260.35" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="260.35" x2="-173.57" y2="260.35" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4431,7 +4431,7 @@ design rules under a new name.</description>
 <contactref element="L1-11:R8" pad="1"/>
 <contactref element="L1-11:R7" pad="2"/>
 <contactref element="L1-11:R9" pad="1"/>
-<wire x1="-162.98" y1="283.21" x2="-187.345" y2="179.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-162.98" y1="283.21" x2="-259.735" y2="184.67" width="0" layer="19" extent="1-1"/>
 <wire x1="-173.57" y1="283.21" x2="-162.98" y2="283.21" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="283.21" x2="-173.57" y2="283.21" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -4442,7 +4442,7 @@ design rules under a new name.</description>
 <contactref element="L1-12:R9" pad="1"/>
 <wire x1="-173.57" y1="306.07" x2="-162.98" y2="306.07" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="306.07" x2="-173.57" y2="306.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="180.09" x2="-162.98" y2="306.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="185.17" x2="-162.98" y2="306.07" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M13">
 <contactref element="J2" pad="13"/>
@@ -4451,7 +4451,7 @@ design rules under a new name.</description>
 <contactref element="L1-13:R9" pad="1"/>
 <wire x1="-173.57" y1="328.93" x2="-162.98" y2="328.93" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="328.93" x2="-173.57" y2="328.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="180.59" x2="-162.98" y2="328.93" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="185.67" x2="-162.98" y2="328.93" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M14">
 <contactref element="J2" pad="14"/>
@@ -4460,7 +4460,7 @@ design rules under a new name.</description>
 <contactref element="L1-14:R9" pad="1"/>
 <wire x1="-173.57" y1="351.79" x2="-162.98" y2="351.79" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="351.79" x2="-173.57" y2="351.79" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="181.09" x2="-162.98" y2="351.79" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="186.17" x2="-162.98" y2="351.79" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M15">
 <contactref element="J2" pad="15"/>
@@ -4469,7 +4469,7 @@ design rules under a new name.</description>
 <contactref element="L1-15:R9" pad="1"/>
 <wire x1="-173.57" y1="374.65" x2="-162.98" y2="374.65" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="374.65" x2="-173.57" y2="374.65" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="181.59" x2="-162.98" y2="374.65" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="186.67" x2="-162.98" y2="374.65" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M16">
 <contactref element="J2" pad="16"/>
@@ -4478,7 +4478,7 @@ design rules under a new name.</description>
 <contactref element="L1-16:R9" pad="1"/>
 <wire x1="-173.57" y1="397.51" x2="-162.98" y2="397.51" width="0" layer="19" extent="1-1"/>
 <wire x1="-182.46" y1="397.51" x2="-173.57" y2="397.51" width="0" layer="19" extent="1-1"/>
-<wire x1="-187.345" y1="182.09" x2="-162.98" y2="397.51" width="0" layer="19" extent="1-1"/>
+<wire x1="-259.735" y1="187.17" x2="-162.98" y2="397.51" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="G">
 <contactref element="U1" pad="1"/>

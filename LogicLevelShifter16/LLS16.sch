@@ -11159,6 +11159,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/lm317-n.pdf"&gt; Datasheet 
 <wire x1="20.32" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
 <junction x="20.32" y="5.08"/>
 <wire x1="15.24" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
+<label x="12.7" y="5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

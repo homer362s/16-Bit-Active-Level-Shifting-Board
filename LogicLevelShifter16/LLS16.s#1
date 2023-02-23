@@ -10866,6 +10866,8 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/lm317-n.pdf"&gt; Datasheet 
 <part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2"/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2"/>
+<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2"/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -10935,6 +10937,14 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/lm317-n.pdf"&gt; Datasheet 
 <instance part="C2" gate="G$1" x="33.02" y="48.26" smashed="yes">
 <attribute name="NAME" x="34.036" y="48.895" size="1.778" layer="95"/>
 <attribute name="VALUE" x="34.036" y="44.069" size="1.778" layer="96"/>
+</instance>
+<instance part="C3" gate="G$1" x="20.32" y="12.7" smashed="yes">
+<attribute name="NAME" x="21.336" y="13.335" size="1.778" layer="95"/>
+<attribute name="VALUE" x="21.336" y="8.509" size="1.778" layer="96"/>
+</instance>
+<instance part="C4" gate="G$1" x="27.94" y="12.7" smashed="yes">
+<attribute name="NAME" x="28.956" y="13.335" size="1.778" layer="95"/>
+<attribute name="VALUE" x="28.956" y="8.509" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -11033,6 +11043,14 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/lm317-n.pdf"&gt; Datasheet 
 <pinref part="U2" gate="A" pin="V+"/>
 <wire x1="45.72" y1="17.78" x2="43.18" y2="17.78" width="0.1524" layer="91"/>
 <label x="40.64" y="17.78" size="1.778" layer="95"/>
+<pinref part="C3" gate="G$1" pin="1"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<wire x1="20.32" y1="15.24" x2="27.94" y2="15.24" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="15.24" x2="38.1" y2="15.24" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="15.24" x2="38.1" y2="17.78" width="0.1524" layer="91"/>
+<junction x="27.94" y="15.24"/>
+<wire x1="38.1" y1="17.78" x2="45.72" y2="17.78" width="0.1524" layer="91"/>
+<junction x="45.72" y="17.78"/>
 </segment>
 </net>
 <net name="DRAIN" class="0">
@@ -11129,6 +11147,18 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/lm317-n.pdf"&gt; Datasheet 
 <pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="43.18" x2="33.02" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="38.1" x2="40.64" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="GND" class="0">
+<segment>
+<pinref part="C3" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="7.62" x2="20.32" y2="5.08" width="0.1524" layer="91"/>
+<pinref part="C4" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="5.08" x2="27.94" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="5.08" x2="27.94" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
+<junction x="20.32" y="5.08"/>
+<wire x1="15.24" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
